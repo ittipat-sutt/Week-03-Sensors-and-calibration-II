@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week-03-03-Physical to Electrical to Digital.md",
+                "file": "Week-03-04-Sensor-vs-Transducer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week-03-03-Physical to Electrical to Digital"
+              "title": "Week-03-04-Sensor-vs-Transducer"
             }
           }
         ]
@@ -205,12 +205,18 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "85788eb0f92ec94b",
+  "active": "914d1bc10e559287",
   "lastOpenFiles": [
-    "Week-03-02-Digital-World.md",
+    "Gemini_Generated_Image_cab33fcab33fcab3.png",
+    "Week-03.md",
+    "Week-03-04-Sensor-vs-Transducer.md",
     "Week-03-03-Physical to Electrical to Digital.md",
     "Week-03-01_Physical_World.md",
-    "Week-03.md",
+    "Week-03-02-Digital-World.md",
+    "Images/Logic_2_bit_Level.jpg",
+    "Images/Logic_1_bit_Level.png",
+    "Images/Logic_2 bit_Level.png",
+    "Images/2 bit-level.png",
     "Week-03-Sensors-and-calibration-II.md",
     "Images/4_Thermal_Energy_to_IoT.png",
     "Images/13_6_Domains_of_Energy.png"

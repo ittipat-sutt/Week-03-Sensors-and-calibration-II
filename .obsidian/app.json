@@ -1,5 +1,7 @@
 {
   "readableLineLength": false,
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }
