@@ -193,19 +193,26 @@ void app_main(void)
 
 **ขั้นตอนการหาสมการ**
 1. นำข้อมูลป้อนเข้าสู่ excel หรือ google sheet
+
+
 ![](Images/input_data.png)
+
 
 2. เลือกข้อมูลเพื่อทำกราฟ scatter
 
+
 ![](Images/Select_data.png)
 
+
 3. แทรกกราฟ scatter
+
 
 ![](Images/Add_Scatter_Chart.png)
 
 3. คลิกขวาที่เส้นกราฟ เลือก เพิ่มเส้นแนวโน้ม
 
 ![](Images/Add-Trend-Line.png)
+
 5. ติ๊กที่ตัวเลือก 
 
 	✅ แสดงสมการบนแผนภูมิ 
