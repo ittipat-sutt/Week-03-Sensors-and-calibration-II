@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week-03-Sensors-and-calibration-II.md",
+                "file": "Week-03-03-Physical to Electrical to Digital.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week-03-Sensors-and-calibration-II"
+              "title": "Week-03-03-Physical to Electrical to Digital"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week-03-Sensors-and-calibration-II.md",
+                "file": "Week-03-03-Physical to Electrical to Digital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Week-03-Sensors-and-calibration-II"
+              "title": "Backlinks for Week-03-03-Physical to Electrical to Digital"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week-03-Sensors-and-calibration-II.md",
+                "file": "Week-03-03-Physical to Electrical to Digital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Week-03-Sensors-and-calibration-II"
+              "title": "Outgoing links from Week-03-03-Physical to Electrical to Digital"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week-03-Sensors-and-calibration-II.md",
+                "file": "Week-03-03-Physical to Electrical to Digital.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Week-03-Sensors-and-calibration-II"
+              "title": "Outline of Week-03-03-Physical to Electrical to Digital"
             }
           },
           {
@@ -173,6 +173,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "50f4ebebce540ee8",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           }
         ],
@@ -191,13 +201,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "85788eb0f92ec94b",
   "lastOpenFiles": [
-    "Images/4_Thermal_Energy_to_IoT.png",
+    "Week-03-02-Digital-World.md",
+    "Week-03-03-Physical to Electrical to Digital.md",
+    "Week-03-01_Physical_World.md",
+    "Week-03.md",
     "Week-03-Sensors-and-calibration-II.md",
+    "Images/4_Thermal_Energy_to_IoT.png",
     "Images/13_6_Domains_of_Energy.png"
   ]
 }
