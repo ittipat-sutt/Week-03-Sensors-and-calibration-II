@@ -11,14 +11,14 @@
             "id": "914d1bc10e559287",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "67039999/Report.md",
-                "bFile": "67039999/Report.md",
-                "aRef": ""
+                "file": "Ittipat 360/Report.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Report  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Report"
             }
           }
         ]
@@ -205,8 +205,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "71230346fe056fc1",
+  "active": "914d1bc10e559287",
   "lastOpenFiles": [
+    "Ittipat 360/Report.md",
     "Ittipat 360",
     "67039999/Report.md",
     "Week-03.md",
